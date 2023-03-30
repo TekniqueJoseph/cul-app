@@ -13,8 +13,6 @@ function App() {
           </ul>
         </nav>
       </div>
-      
-
     </div>
   );
 }
